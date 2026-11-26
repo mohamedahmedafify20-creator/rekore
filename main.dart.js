@@ -107374,7 +107374,7 @@ for(;k<l;++k){j=new A.aw(99,99)
 o.push(A.bD(b,A.p(m[k],b,b,b,b,B.JU,b,b),B.p,b,b,new A.bh(B.j,b,b,new A.bT(j,j,j,j),b,b,B.G),b,b,b,b,B.Q2,b,b,b))}o=A.I7(o,6,6)
 n=A.aQX(0,new A.o1(n,!1,b))
 m=A.bV(99)
-q=A.b([q,B.aA,o,B.aj,new A.B4(1.6,A.ll(B.db,A.b([n,A.aXa(10,A.bD(b,A.p(a0?"\u0641\u064a\u062f\u064a\u0648 \u0627\u0644\u0634\u0631\u062d \u0627\u0644\u0627\u0641\u062a\u0631\u0627\u0636\u064a":"Default demo",b,b,b,b,B.agv,b,b),B.p,b,b,new A.bh(B.O7,b,b,m,b,b,B.G),b,b,b,b,B.mP,b,b,b),12,b,b)],p),B.K,B.cu,b),b),B.aj],p)
+q=A.b([q,B.aA,o,B.aj,new A.B4(1.6,A.ll(B.db,A.b([n,A.aXa(10,A.bD(b,A.p(a0?"\u062d\u0631\u0643\u0629 \u062a\u0648\u0636\u064a\u062d\u064a\u0629":"Motion guide",b,b,b,b,B.agv,b,b),B.p,b,b,new A.bh(B.O7,b,b,m,b,b,B.G),b,b,b,b,B.mP,b,b,b),12,b,b)],p),B.K,B.cu,b),b),B.aj],p)
 o=a7.w
 if(o.length!==0){n=A.b([A.p(a0?"\u0646\u0642\u0627\u0637 \u0627\u0644\u0623\u062f\u0627\u0621 \u0627\u0644\u0635\u062d\u064a\u062d":"Form cues",b,b,b,b,B.c6,b,b),B.c5],p)
 for(m=o.length,k=0;k<o.length;o.length===m||(0,A.t)(o),++k)n.push(new A.aM(B.r9,A.p("\u2022  "+o[k],b,b,b,b,b,b,b),b))
